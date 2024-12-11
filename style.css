@@ -1,0 +1,22 @@
+body{
+    background-color: aqua;
+}
+#local{
+    cursor: pointer;
+    color: blue;
+}
+#apresenta{
+    position: absolute;
+    background-color: azure;
+    display: none;
+}
+#voltar{
+    cursor: pointer;
+    color: azure;
+    background-color: rgba(255, 21, 0, 0.9);
+    width: 50px;
+    height: 25px;
+    margin-left: 50px;
+   
+    
+}
